@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Conative IoT Dashboard</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Conative IoT Dashboard</h1>
+    <div>
+        <button onclick="switchMode('manual')">Switch to Manual Mode</button>
+        <button onclick="switchMode('intelligent')">Switch to Intelligent Mode</button>
+    </div>
+    <div>
+        <button onclick="detectEmotion()">Detect Emotion</button>
+        <p id="emotionResult"></p>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

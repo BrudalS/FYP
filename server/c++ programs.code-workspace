@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"path": "../../../c++ programs"
+		},
+		{
+			"path": "../../../HTML codes"
+		},
+		{
+			"path": "../../../../../Downloads/CN"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp",
+			"ostream": "cpp"
+		},
+		"liveServer.settings.multiRootWorkspaceName": "c++ programs"
+	},
+	"launch": {
+		"version": "0.2.0",
+		"configurations": []
+	}
+}
