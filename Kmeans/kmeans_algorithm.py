@@ -1,5 +1,4 @@
 from sklearn.cluster import KMeans
-import numpy as np
 
 def run_kmeans(data):
     """Run K-means clustering on user behavior data."""
