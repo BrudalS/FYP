@@ -76,8 +76,7 @@ shellingham==1.5.4
 six==1.17.0
 tensorboard==2.18.0
 tensorboard-data-server==0.7.2
-tensorflow==2.18.0
-tensorflow_intel==2.18.0
+
 termcolor==2.5.0
 tomlkit==0.13.2
 trove-classifiers==2025.1.15.22
